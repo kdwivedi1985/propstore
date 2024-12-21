@@ -1,1 +1,3 @@
+gateway-server.hostname=localhost
+gateway-server.port=8072
 
